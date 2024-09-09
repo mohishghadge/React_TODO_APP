@@ -1,4 +1,4 @@
-# Todo App - Version One
+# Todo App
 
 This is a simple and basic Todo App built with React. The app allows users to add, mark as completed, and delete tasks from a to-do list.
 
